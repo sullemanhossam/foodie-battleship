@@ -1,0 +1,3 @@
+[submodule "config/tastyconfig"]
+	path = config/tastyconfig
+	url = https://github.com/Reinvigoration/tastyconfig.git
